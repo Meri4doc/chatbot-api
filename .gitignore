@@ -27,3 +27,4 @@ replay_pid*
 /chatbot-api-infrastructure/chatbot-api-infrastructure.iml
 /chatbot-api-domain/chatbot-api-domain.iml
 /chatbot-api-application/chatbot-api-application.iml
+/.idea/
